@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 25 | 12 |
+| 26 | 12 |
 
 ---
 
@@ -19,11 +19,11 @@
 - [data structures](#data-structures) (1)
 - [games](#games) (2)
 - [greedy](#greedy) (7)
-- [implementation](#implementation) (10)
+- [implementation](#implementation) (11)
 - [math](#math) (12)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (2)
-- [strings](#strings) (7)
+- [strings](#strings) (8)
 
 ---
 
@@ -90,6 +90,7 @@
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
 | 2170A | [Maximum Neighborhood](https://codeforces.com/contest/2170/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2170/A%20-%20Maximum%20Neighborhood/solution.cpp) |
@@ -133,6 +134,7 @@
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 2110B | [Down with Brackets](https://codeforces.com/contest/2110/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2110/B%20-%20Down%20with%20Brackets/solution.cpp) |
 | 2179A | [Blackslex and Password](https://codeforces.com/contest/2179/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2179/A%20-%20Blackslex%20and%20Password/solution.cpp) |
 | 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.cpp) |
