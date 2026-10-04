@@ -6,42 +6,116 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 4 |
+| 16 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [greedy](#greedy) (1)
-- [implementation](#implementation) (1)
-- [sortings](#sortings) (1)
-- [strings](#strings) (1)
+- [bitmasks](#bitmasks) (1)
+- [brute force](#brute-force) (3)
+- [constructive algorithms](#constructive-algorithms) (1)
+- [data structures](#data-structures) (1)
+- [games](#games) (2)
+- [greedy](#greedy) (6)
+- [implementation](#implementation) (3)
+- [math](#math) (10)
+- [number theory](#number-theory) (1)
+- [sortings](#sortings) (3)
+- [strings](#strings) (5)
 
 ---
+
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2170A | [Maximum Neighborhood](https://codeforces.com/contest/2170/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2170/A%20-%20Maximum%20Neighborhood/solution.cpp) |
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 2170A | [Maximum Neighborhood](https://codeforces.com/contest/2170/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2170/A%20-%20Maximum%20Neighborhood/solution.cpp) |
+| 2233A | [AI Project Development](https://codeforces.com/contest/2233/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2233/A%20-%20AI%20Project%20Development/solution.cpp) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2266D | [Falling Concrete](https://codeforces.com/contest/2266/problem/D) | 1400 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2266/D%20-%20Falling%20Concrete/solution.cpp) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2266D | [Falling Concrete](https://codeforces.com/contest/2266/problem/D) | 1400 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2266/D%20-%20Falling%20Concrete/solution.cpp) |
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
+| 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 2170A | [Maximum Neighborhood](https://codeforces.com/contest/2170/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2170/A%20-%20Maximum%20Neighborhood/solution.cpp) |
+| 2194A | [Lawn Mower](https://codeforces.com/contest/2194/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2194/A%20-%20Lawn%20Mower/solution.cpp) |
+| 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2266/A%20-%20Good%20Contest/solution.cpp) |
+| 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
+| 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.cpp) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 2170A | [Maximum Neighborhood](https://codeforces.com/contest/2170/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2170/A%20-%20Maximum%20Neighborhood/solution.cpp) |
+| 2230A | [Optimal Purchase](https://codeforces.com/contest/2230/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2230/A%20-%20Optimal%20Purchase/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
+| 2170A | [Maximum Neighborhood](https://codeforces.com/contest/2170/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2170/A%20-%20Maximum%20Neighborhood/solution.cpp) |
+| 2179A | [Blackslex and Password](https://codeforces.com/contest/2179/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2179/A%20-%20Blackslex%20and%20Password/solution.cpp) |
+| 2194A | [Lawn Mower](https://codeforces.com/contest/2194/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2194/A%20-%20Lawn%20Mower/solution.cpp) |
+| 2230A | [Optimal Purchase](https://codeforces.com/contest/2230/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2230/A%20-%20Optimal%20Purchase/solution.cpp) |
+| 2233A | [AI Project Development](https://codeforces.com/contest/2233/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2233/A%20-%20AI%20Project%20Development/solution.cpp) |
+| 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
+| 2266D | [Falling Concrete](https://codeforces.com/contest/2266/problem/D) | 1400 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2266/D%20-%20Falling%20Concrete/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 
 ### sortings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 1896A | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/1896/A%20-%20Jagged%20Swaps/solution.cpp) |
+| 2266D | [Falling Concrete](https://codeforces.com/contest/2266/problem/D) | 1400 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2266/D%20-%20Falling%20Concrete/solution.cpp) |
 
 ### strings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 2110B | [Down with Brackets](https://codeforces.com/contest/2110/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2110/B%20-%20Down%20with%20Brackets/solution.cpp) |
+| 2179A | [Blackslex and Password](https://codeforces.com/contest/2179/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2179/A%20-%20Blackslex%20and%20Password/solution.cpp) |
+| 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.cpp) |
 
 ---
 
