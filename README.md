@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 37 | 12 |
+| 38 | 12 |
 
 ---
 
@@ -19,8 +19,8 @@
 - [data structures](#data-structures) (1)
 - [games](#games) (2)
 - [greedy](#greedy) (11)
-- [implementation](#implementation) (21)
-- [math](#math) (16)
+- [implementation](#implementation) (22)
+- [math](#math) (17)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (3)
 - [strings](#strings) (10)
@@ -110,6 +110,7 @@
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.cpp) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
 | 1993A | [Question Marks](https://codeforces.com/contest/1993/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/1993/A%20-%20Question%20Marks/solution.cpp) |
+| 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
 | 2170A | [Maximum Neighborhood](https://codeforces.com/contest/2170/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2170/A%20-%20Maximum%20Neighborhood/solution.cpp) |
 | 2230A | [Optimal Purchase](https://codeforces.com/contest/2230/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2230/A%20-%20Optimal%20Purchase/solution.cpp) |
 
@@ -126,6 +127,7 @@
 | 1551A | [Polycarp and Coins](https://codeforces.com/contest/1551/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/1551/A%20-%20Polycarp%20and%20Coins/solution.cpp) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
+| 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
 | 2170A | [Maximum Neighborhood](https://codeforces.com/contest/2170/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2170/A%20-%20Maximum%20Neighborhood/solution.cpp) |
 | 2179A | [Blackslex and Password](https://codeforces.com/contest/2179/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2179/A%20-%20Blackslex%20and%20Password/solution.cpp) |
 | 2194A | [Lawn Mower](https://codeforces.com/contest/2194/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2194/A%20-%20Lawn%20Mower/solution.cpp) |
