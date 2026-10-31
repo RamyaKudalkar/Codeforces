@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 30 | 12 |
+| 41 | 12 |
 
 ---
 
@@ -14,16 +14,16 @@
 
 - [*special](#special) (1)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (5)
-- [constructive algorithms](#constructive-algorithms) (1)
+- [brute force](#brute-force) (7)
+- [constructive algorithms](#constructive-algorithms) (2)
 - [data structures](#data-structures) (1)
 - [games](#games) (2)
-- [greedy](#greedy) (9)
-- [implementation](#implementation) (15)
-- [math](#math) (13)
+- [greedy](#greedy) (13)
+- [implementation](#implementation) (23)
+- [math](#math) (17)
 - [number theory](#number-theory) (1)
-- [sortings](#sortings) (2)
-- [strings](#strings) (8)
+- [sortings](#sortings) (4)
+- [strings](#strings) (10)
 
 ---
 
@@ -46,6 +46,8 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+| 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
+| 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 2170A | [Maximum Neighborhood](https://codeforces.com/contest/2170/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2170/A%20-%20Maximum%20Neighborhood/solution.cpp) |
 | 2233A | [AI Project Development](https://codeforces.com/contest/2233/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2233/A%20-%20AI%20Project%20Development/solution.cpp) |
 
@@ -53,6 +55,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
 | 2266D | [Falling Concrete](https://codeforces.com/contest/2266/problem/D) | 1400 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2266/D%20-%20Falling%20Concrete/solution.cpp) |
 
 ### data structures
@@ -74,7 +77,11 @@
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.cpp) |
+| 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.cpp) |
+| 1551A | [Polycarp and Coins](https://codeforces.com/contest/1551/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/1551/A%20-%20Polycarp%20and%20Coins/solution.cpp) |
+| 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.cpp) |
 | 1993A | [Question Marks](https://codeforces.com/contest/1993/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/1993/A%20-%20Question%20Marks/solution.cpp) |
 | 2170A | [Maximum Neighborhood](https://codeforces.com/contest/2170/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2170/A%20-%20Maximum%20Neighborhood/solution.cpp) |
 | 2194A | [Lawn Mower](https://codeforces.com/contest/2194/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2194/A%20-%20Lawn%20Mower/solution.cpp) |
@@ -93,12 +100,20 @@
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.cpp) |
+| 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.cpp) |
+| 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
 | 1426A | [Floor Number](https://codeforces.com/contest/1426/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/1426/A%20-%20Floor%20Number/solution.cpp) |
+| 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/1669/A%20-%20Division%3F/solution.cpp) |
+| 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
+| 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
+| 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.cpp) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
 | 1993A | [Question Marks](https://codeforces.com/contest/1993/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/1993/A%20-%20Question%20Marks/solution.cpp) |
+| 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
 | 2170A | [Maximum Neighborhood](https://codeforces.com/contest/2170/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2170/A%20-%20Maximum%20Neighborhood/solution.cpp) |
 | 2230A | [Optimal Purchase](https://codeforces.com/contest/2230/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2230/A%20-%20Optimal%20Purchase/solution.cpp) |
 
@@ -108,10 +123,14 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
+| 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
 | 1426A | [Floor Number](https://codeforces.com/contest/1426/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/1426/A%20-%20Floor%20Number/solution.cpp) |
+| 1551A | [Polycarp and Coins](https://codeforces.com/contest/1551/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/1551/A%20-%20Polycarp%20and%20Coins/solution.cpp) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
+| 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
 | 2170A | [Maximum Neighborhood](https://codeforces.com/contest/2170/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2170/A%20-%20Maximum%20Neighborhood/solution.cpp) |
 | 2179A | [Blackslex and Password](https://codeforces.com/contest/2179/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2179/A%20-%20Blackslex%20and%20Password/solution.cpp) |
 | 2194A | [Lawn Mower](https://codeforces.com/contest/2194/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2194/A%20-%20Lawn%20Mower/solution.cpp) |
@@ -130,6 +149,8 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.cpp) |
 | 1896A | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/1896/A%20-%20Jagged%20Swaps/solution.cpp) |
 | 2266D | [Falling Concrete](https://codeforces.com/contest/2266/problem/D) | 1400 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2266/D%20-%20Falling%20Concrete/solution.cpp) |
 
@@ -141,7 +162,9 @@
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
+| 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 2110B | [Down with Brackets](https://codeforces.com/contest/2110/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2110/B%20-%20Down%20with%20Brackets/solution.cpp) |
 | 2179A | [Blackslex and Password](https://codeforces.com/contest/2179/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2179/A%20-%20Blackslex%20and%20Password/solution.cpp) |
 | 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.cpp) |
