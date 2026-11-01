@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 45 | 13 |
+| 46 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (4)
+- [Uncategorized](#uncategorized) (5)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (7)
 - [constructive algorithms](#constructive-algorithms) (2)
@@ -41,6 +41,7 @@
 | 2278A | [Fraction and Six](https://codeforces.com/contest/2278/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2278/A%20-%20Fraction%20and%20Six/solution.cpp) |
 | 2278B | [Stakes and Shapes](https://codeforces.com/contest/2278/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2278/B%20-%20Stakes%20and%20Shapes/solution.cpp) |
 | 2278C | [Math and Physics](https://codeforces.com/contest/2278/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2278/C%20-%20Math%20and%20Physics/solution.cpp) |
+| 2278D | [Lock and Unlock](https://codeforces.com/contest/2278/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2278/D%20-%20Lock%20and%20Unlock/solution.cpp) |
 | 2278E | [Swap and Negate](https://codeforces.com/contest/2278/problem/E) | Unrated | [C++17 (GCC 7-32)](https://github.com/RamyaKudalkar/Codeforces/blob/HEAD/2278/E%20-%20Swap%20and%20Negate/solution.cpp) |
 
 ### bitmasks
